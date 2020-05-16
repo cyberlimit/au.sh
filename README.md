@@ -1,0 +1,2 @@
+# au.sh
+SC semua 
