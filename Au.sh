@@ -25,39 +25,11 @@ echo -e "\e[0;32mYoutube. : Cyber Limit"
 echo -e "\e[0;36m'¥^=°=°=°=°=°=°=°=°°°=°=°==°=°=°=°=°"
 
 echo -e "\e[33;1m#Note: Hargai Yang Membuat Tools Bego"
-echo ""
-echo -e "\e[0;36mTOOLS INI DIBUAT UNTUK KALIAN\n\tYAN>
-echo ""
-echo "OH IYA SEBELUM GW KASIH SCRIPTNYA LU SUBSCRIBE "
-sleep 5
-echo "GUA ITUNG SAMPE 5 YA"
-sleep 2
-echo "1"
-sleep 2
-echo "2"
-sleep 2
-echo "3"
-sleep 2
-echo "4"
-sleep 2
-echo "5"
-sleep 2
-echo "DUAR MEMEW"
-sleep 2
-echo "OKE THANKS"
-sleep 1
-echo "NIH SCRIPTNYA"
-echo ""
-echo ""
-
-sleep 2
-clear 
-echo ""
-echo "       IKUTI PETUNJUK YANG ADA "
 echo "" 
 echo "[+]PILIHAN MENU [+]
 echo ""
 echo "1.>hack Fb MBF<"
+echo "2.>
 
 read -p  "Pilih yang mana : " pil
 
