@@ -16,7 +16,7 @@ yellow='\e[1;33m'
 echo "MASUKIN NAMA LU TOLOL"
 read NAMA
 
-figlet "CyberLimit"| lolcat
+figlet "CyberLimit"
 
 echo -e "\e[0;36m================================="
 echo -e "\e[31;1mAuthor   : CyberLimit"
@@ -30,7 +30,7 @@ echo ""
 echo "[+]PILIHAN MENU [+]
 echo ""
 echo "1.>hack Fb MBF<"
-echo "2.>Scan Ip<"
+echo "2.>KELUAR<"
 
 read -p  "Pilih yang mana : " pil
 
@@ -38,7 +38,7 @@ if [[ $pil -eq 1 ]]; then
 sleep 1
 python2 Limit.py
 elif [[ $pil -eq 2 ]]; then
-python2 My-Ip.py
+CTRL + z
 else
 echo -e "$red pilih yang ada"
 menu
