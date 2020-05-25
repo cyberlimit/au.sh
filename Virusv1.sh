@@ -12,14 +12,14 @@ yellow='\e[1;33m'
 sleep 2
 clear
 
-read -p "MASUKIN NAMA LU CUYY : " pil
+read -p "TADI SIAPA NAMA LU CUY? : " pil
 
 clear
 echo "TAMPILAN SEDERHANA!"
 echo "№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№"
 echo "-------Autor : Cyber Limit---------"
 echo "-----My team : Wisnu | Panjull-----"
-echo "___________________________________"
+echo "№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№"
 echo "Note : Hargai Yang Membuat"
 echo ""
 echo ""
