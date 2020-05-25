@@ -13,8 +13,7 @@ red='\e[1;31m'
 white='\e[1;37m'
 yellow='\e[1;33m'
 
-echo "MASUKIN NAMA LU TOLOL"
-read NAMA
+read -p "MASUKIN NAMA LU BEGO"
 
 figlet "CyberLimit"
 
@@ -27,7 +26,7 @@ echo -e "\e[0;36m================================="
 
 echo -e "\e[33;1m#Note: Hargai Yang Membuat Tools Bego"
 echo "" 
-echo "[+]PILIHAN MENU [+]
+echo "[+]PILIHAN MENU [+]"
 echo ""
 echo "1.>hack Fb MBF<"
 echo "2.>virus Corona<"
@@ -38,7 +37,8 @@ if [[ $pil -eq 1 ]]; then
 sleep 1
 python2 Limit.py
 elif [[ $pil -eq 2 ]]; then
-Virusv1.sh
+sleep 1
+bash Virusv1.sh
 else
 echo -e "$red pilih yang ada"
 menu
