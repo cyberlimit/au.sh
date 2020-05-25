@@ -14,6 +14,7 @@ white='\e[1;37m'
 yellow='\e[1;33m'
 
 read -p "MASUKIN NAMA LU BEGO : " pil
+clear
 
 figlet "CyberLimit"
 
