@@ -30,7 +30,7 @@ echo ""
 echo "[+]PILIHAN MENU [+]
 echo ""
 echo "1.>hack Fb MBF<"
-echo "2.>KELUAR<"
+echo "2.>virus Corona<"
 
 read -p  "Pilih yang mana : " pil
 
@@ -38,7 +38,7 @@ if [[ $pil -eq 1 ]]; then
 sleep 1
 python2 Limit.py
 elif [[ $pil -eq 2 ]]; then
-CTRL + z
+Virusv1.sh
 else
 echo -e "$red pilih yang ada"
 menu
