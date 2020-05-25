@@ -24,9 +24,9 @@ echo "Note : Hargai Yang Membuat"
 echo ""
 echo ""
 read -p "MASUKAN NOMOR TARGET : " pil
-echo "PLEASE WAIT...
+echo "PLEASE WAIT..."
 sleep 5
-echo "VIRUS BERHASIL DIKIRIM"
+echo -e "$red VIRUS BERHASIL DIKIRIM"
 sleep 1
 echo "VIRUS BERHASIL DIKIRIM"
 sleep 1
