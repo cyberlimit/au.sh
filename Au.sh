@@ -39,7 +39,7 @@ sleep 1
 python2 Limit.py
 elif [[ $pil -eq 2 ]]; then
 sleep 1
-bash Virusv1.sh
+bash Viruscorona.sh
 else
 echo -e "$red pilih yang ada"
 menu
