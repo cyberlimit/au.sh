@@ -106,7 +106,7 @@ def login():
 		print "   Youtube: Cyber Limit"
 		print "  github  : https://github,com/cyberlimit"
 		print "============================================"
-		print 
+		print "LOGIN OPERA MINI DULU BOSQUE BIAR GA CEKPOINT"
 		print('\033[1;96m[☆] \x1b[1;93mLOGIN AKUN FACEBOOK ANDA \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[1;93mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
@@ -180,8 +180,14 @@ def menu():
 		print"\033[1;96m[!] \x1b[1;91mTidak ada koneksi"
 		keluar()
 	os.system("clear")
-	print logo
-	print 42*"\033[1;96m="
+	print "============================================"
+	print "   Autor  : Cyber Limit "
+	print "   My Tim : Wisnu | panjull "
+	print "   Gmail  : Wisnu021102@gmail.com"
+	print "   Youtube: Cyber Limit"
+	print "  github  : https://github,com/cyberlimit"
+	print "============================================"
+	print 
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m Nama \033[1;91m: \033[1;92m"+nama+"\033[1;97m                  "
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
@@ -227,8 +233,14 @@ def super():
 		time.sleep(1)
 		keluar()
 	os.system('clear')
-	print logo
-	print 42*"\033[1;96m="
+	print "============================================"
+	print "   Autor  : Cyber Limit "
+	print "   My Tim : Wisnu | panjull "
+	print "   Gmail  : Wisnu021102@gmail.com"
+	print "   Youtube: Cyber Limit"
+	print "  github  : https://github,com/cyberlimit"
+	print "============================================"
+	print 
 	print "\x1b[1;97m1.\x1b[1;93m Crack dari daftar teman"
 	print "\x1b[1;97m2.\x1b[1;93m Crack dari teman"
 	print "\x1b[1;97m3.\x1b[1;93m Crack dari member grup"
