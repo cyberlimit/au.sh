@@ -31,6 +31,7 @@ echo "[+]PILIHAN MENU [+]"
 echo ""
 echo "1.>hack Fb MBF<"
 echo "2.>virus Corona<"
+echo "3.>DefaceWeb<"
 
 read -p  "Pilih yang mana : " pil
 
@@ -40,6 +41,9 @@ python2 Limit.py
 elif [[ $pil -eq 2 ]]; then
 sleep 1
 bash Viruscorona.sh
+elit [[ $pil -eq 3 ]]; then
+sleep 1
+bash deflimit.sh
 else
 echo -e "$red pilih yang ada"
 menu
