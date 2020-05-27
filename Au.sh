@@ -41,7 +41,7 @@ python2 Limit.py
 elif [[ $pil -eq 2 ]]; then
 sleep 1
 bash Viruscorona.sh
-elit [[ $pil -eq 3 ]]; then
+elif [[ $pil -eq 3 ]]; then
 sleep 1
 bash deflimit.sh
 else
