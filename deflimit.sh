@@ -33,12 +33,12 @@ echo -e "\e[1;34m| |   .   | | "
 sleep 1
 echo -e "\e[1;34m|_(_______)_|"
 echo ""
-echo -e "\e[1;35m      №№№№№№№№№№№№№№№№№№№№№№№№№№№№№№>
-echo -e "\e[1;36m      №|-----Autor : Cyber Limit---->
-echo -e "\e[1;36m      №|---My Team : Wisnu | panjull>
-echo -e "\e[1;36m      №|---youtube : Cyber Limit---->
-echo -e "\e[1;36m      №|-------Tampilan Sederhana--->
-echo -e "\e[1;35m      №№№№№№№№№№№№№№№№№№№№№№№№№№№№№№>
+echo -e "\e[1;35m№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№"
+echo -e "\e[1;36m№|-----Autor : Cyber Limit-----|№"
+echo -e "\e[1;36m№|---My Team : Wisnu | panjull-|№"
+echo -e "\e[1;36m№|---youtube : Cyber Limit-----|№"
+echo -e "\e[1;36m№|-------Tampilan Sederhana----|№"
+echo -e "\e[1;35m№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№"
 echo ""
 echo "NOTE : HARGAI YANG MEMBUAT!!"
 sleep 1
