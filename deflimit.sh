@@ -1,4 +1,4 @@
-/bin/bash
+#!/bin/bash
 #Deface
 #tools by cyber limit
 
