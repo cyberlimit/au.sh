@@ -1,0 +1,12 @@
+#! / bin / bash
+echo -e " \ 033 [1; 32mPenginstalan bahan bahan "
+tidur 2
+chmod 777 liminfo
+pembaruan tepat -y
+upgrade apt -y
+apt menginstal pv -y
+apt menginstal exiftool -y
+tidur 3
+echo -e " penginstalan selesai "
+cp liminfo ../usr/bin/liminfo
+echo -e " \ 003 [0m "
